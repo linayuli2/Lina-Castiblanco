@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Lina Julieth Castiblanco Tolosa"
 title_separator          : "-"
 name                     : &name "Lina Castiblanco"
-description              :  &description "I am a cosmologist exploring the cosmic web through higher-order statistics of weak lensing and galaxy clustering to uncover the dark secrets of the Universe." # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "I am a cosmologist exploring the cosmic web through higher-order statistics of weak lensing and galaxy clustering to uncover the dark secrets of the Universe." # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://linayuli2.github.io"
 baseurl                  : "/Lina-Castiblanco"
 repository               : "linayuli2/Lina-Castiblanco"
